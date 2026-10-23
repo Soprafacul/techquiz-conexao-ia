@@ -16,10 +16,10 @@ Quiz educativo sobre **Inteligência Artificial & Conceitos de TI**, desenvolvid
 
 | Responsabilidade sugerida | Integrante |
 | --- | --- |
-| Página inicial e conteúdo | A definir pelo grupo |
-| Tela de jogo e interações | A definir pelo grupo |
-| CSS e revisão de acessibilidade | A definir pelo grupo |
-| Questões, fontes e documentação | A definir pelo grupo |
+| Página inicial e conteúdo | ja ja nois separa com qm ficou |
+| Tela de jogo e interações | ja ja nois separa com qm ficou  |
+| CSS e revisão de acessibilidade | ja ja nois separa com qm ficou |
+| Questões, fontes e documentação |ja ja nois separa com qm ficou |
 
 Adicionar os integrantes reais em Settings > Collaborators. Cada integrante deve realizar e revisar suas próprias contribuições; este projeto inicial não representa participação individual do grupo.
 
